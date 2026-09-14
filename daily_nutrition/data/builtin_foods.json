@@ -1,0 +1,722 @@
+[
+  {
+    "id": "builtin_indica_rice",
+    "name": "稻米（籼米）",
+    "per_100g": {"protein_g": 7.8, "fat_g": 1.3, "carb_g": 76.6},
+    "aliases": ["籼米", "稻米"],
+    "category": "谷类及制品",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_japonica_rice",
+    "name": "稻米（粳米）",
+    "per_100g": {"protein_g": 6.8, "fat_g": 1.3, "carb_g": 76.8},
+    "aliases": ["粳米", "稻米"],
+    "category": "谷类及制品",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_wheat_flour",
+    "name": "小麦粉（标准粉）",
+    "per_100g": {"protein_g": 12.0, "fat_g": 0.8, "carb_g": 70.0},
+    "aliases": ["标准粉", "小麦粉", "面粉"],
+    "category": "谷类及制品",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_millet",
+    "name": "小米",
+    "per_100g": {"protein_g": 9.7, "fat_g": 1.7, "carb_g": 77.0},
+    "aliases": [],
+    "category": "谷类及制品",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_sorghum",
+    "name": "高粱米",
+    "per_100g": {"protein_g": 8.2, "fat_g": 2.2, "carb_g": 78.0},
+    "aliases": ["高粱"],
+    "category": "谷类及制品",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_yellow_corn",
+    "name": "玉米（黄）",
+    "per_100g": {"protein_g": 8.5, "fat_g": 4.3, "carb_g": 73.0},
+    "aliases": ["黄玉米", "玉米"],
+    "category": "谷类及制品",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_barley",
+    "name": "大麦仁",
+    "per_100g": {"protein_g": 10.5, "fat_g": 2.2, "carb_g": 66.0},
+    "aliases": ["大麦"],
+    "category": "谷类及制品",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_buckwheat",
+    "name": "荞麦",
+    "per_100g": {"protein_g": 9.3, "fat_g": 2.3, "carb_g": 66.5},
+    "aliases": [],
+    "category": "谷类及制品",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_oatmeal",
+    "name": "燕麦片",
+    "per_100g": {"protein_g": 15.0, "fat_g": 6.7, "carb_g": 61.6},
+    "aliases": ["燕麦"],
+    "category": "谷类及制品",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_steamed_rice",
+    "name": "米饭（蒸，熟）",
+    "per_100g": {"protein_g": 2.6, "fat_g": 0.3, "carb_g": 25.9},
+    "aliases": ["米饭", "蒸米饭"],
+    "category": "谷类及制品",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": "熟重"
+  },
+  {
+    "id": "builtin_steamed_mantou",
+    "name": "馒头（蒸，标准粉）",
+    "per_100g": {"protein_g": 7.0, "fat_g": 1.1, "carb_g": 47.0},
+    "aliases": ["馒头"],
+    "category": "谷类及制品",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": "熟重"
+  },
+  {
+    "id": "builtin_boiled_noodles",
+    "name": "面条（煮，熟）",
+    "per_100g": {"protein_g": 3.9, "fat_g": 0.4, "carb_g": 22.6},
+    "aliases": ["面条", "煮面条"],
+    "category": "谷类及制品",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": "熟重"
+  },
+  {
+    "id": "builtin_soybean",
+    "name": "黄豆（大豆）",
+    "per_100g": {"protein_g": 39.2, "fat_g": 17.4, "carb_g": 25.0},
+    "aliases": ["大豆", "黄豆"],
+    "category": "豆类及制品",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_black_bean",
+    "name": "黑豆",
+    "per_100g": {"protein_g": 49.8, "fat_g": 12.1, "carb_g": 19.0},
+    "aliases": [],
+    "category": "豆类及制品",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_mung_bean",
+    "name": "绿豆",
+    "per_100g": {"protein_g": 22.1, "fat_g": 0.8, "carb_g": 59.0},
+    "aliases": [],
+    "category": "豆类及制品",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_adzuki_bean",
+    "name": "赤小豆",
+    "per_100g": {"protein_g": 20.7, "fat_g": 0.5, "carb_g": 58.0},
+    "aliases": ["红豆"],
+    "category": "豆类及制品",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_dried_pea",
+    "name": "豌豆（干）",
+    "per_100g": {"protein_g": 24.0, "fat_g": 1.0, "carb_g": 58.0},
+    "aliases": ["干豌豆", "豌豆"],
+    "category": "豆类及制品",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_dried_fava",
+    "name": "蚕豆（干）",
+    "per_100g": {"protein_g": 28.2, "fat_g": 0.8, "carb_g": 49.0},
+    "aliases": ["干蚕豆", "蚕豆"],
+    "category": "豆类及制品",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_firm_tofu",
+    "name": "豆腐（北豆腐）",
+    "per_100g": {"protein_g": 9.2, "fat_g": 8.1, "carb_g": 3.0},
+    "aliases": ["北豆腐", "豆腐"],
+    "category": "豆类及制品",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_soy_milk",
+    "name": "豆浆",
+    "per_100g": {"protein_g": 1.8, "fat_g": 0.7, "carb_g": 1.1},
+    "aliases": [],
+    "category": "豆类及制品",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_green_bean",
+    "name": "四季豆（鲜）",
+    "per_100g": {"protein_g": 1.9, "fat_g": 0.8, "carb_g": 4.0},
+    "aliases": ["鲜四季豆", "四季豆"],
+    "category": "豆类及制品",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_pork_tenderloin",
+    "name": "猪里脊肉",
+    "per_100g": {"protein_g": 19.6, "fat_g": 7.9, "carb_g": 0.0},
+    "aliases": ["里脊"],
+    "category": "肉禽类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_pork_fatty",
+    "name": "猪肥瘦肉",
+    "per_100g": {"protein_g": 9.5, "fat_g": 59.8, "carb_g": 0.9},
+    "aliases": ["肥瘦猪肉"],
+    "category": "肉禽类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_pork_lean",
+    "name": "猪瘦猪肉",
+    "per_100g": {"protein_g": 16.7, "fat_g": 28.8, "carb_g": 1.0},
+    "aliases": ["瘦猪肉", "瘦肉"],
+    "category": "肉禽类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_beef_tenderloin",
+    "name": "牛里脊肉",
+    "per_100g": {"protein_g": 20.1, "fat_g": 10.2, "carb_g": 0.1},
+    "aliases": ["牛里脊"],
+    "category": "肉禽类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_beef_lean",
+    "name": "牛肉（瘦）",
+    "per_100g": {"protein_g": 28.0, "fat_g": 5.0, "carb_g": 0.0},
+    "aliases": ["瘦牛肉", "牛肉"],
+    "category": "肉禽类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_mutton_lean",
+    "name": "羊肉（瘦）",
+    "per_100g": {"protein_g": 20.5, "fat_g": 3.9, "carb_g": 0.2},
+    "aliases": ["瘦羊肉", "羊肉"],
+    "category": "肉禽类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_chicken_breast",
+    "name": "鸡胸肉",
+    "per_100g": {"protein_g": 19.4, "fat_g": 5.0, "carb_g": 0.0},
+    "aliases": ["鸡胸"],
+    "category": "肉禽类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_chicken_leg",
+    "name": "鸡腿",
+    "per_100g": {"protein_g": 16.0, "fat_g": 13.0, "carb_g": 0.0},
+    "aliases": [],
+    "category": "肉禽类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_duck",
+    "name": "鸭肉",
+    "per_100g": {"protein_g": 15.5, "fat_g": 19.7, "carb_g": 0.2},
+    "aliases": [],
+    "category": "肉禽类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_grass_carp",
+    "name": "草鱼",
+    "per_100g": {"protein_g": 16.6, "fat_g": 5.2, "carb_g": 0.0},
+    "aliases": [],
+    "category": "水产类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_carp",
+    "name": "鲤鱼",
+    "per_100g": {"protein_g": 17.6, "fat_g": 4.1, "carb_g": 0.5},
+    "aliases": [],
+    "category": "水产类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_hairtail",
+    "name": "带鱼",
+    "per_100g": {"protein_g": 17.7, "fat_g": 4.9, "carb_g": 3.1},
+    "aliases": [],
+    "category": "水产类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_prawn",
+    "name": "虾（对虾）",
+    "per_100g": {"protein_g": 18.6, "fat_g": 0.8, "carb_g": 2.8},
+    "aliases": ["对虾", "虾"],
+    "category": "水产类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_salmon",
+    "name": "三文鱼",
+    "per_100g": {"protein_g": 20.0, "fat_g": 13.0, "carb_g": 0.0},
+    "aliases": ["鲑鱼"],
+    "category": "水产类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_egg_boiled",
+    "name": "鸡蛋（全蛋，煮）",
+    "per_100g": {"protein_g": 12.1, "fat_g": 10.5, "carb_g": 0.1},
+    "aliases": ["煮鸡蛋", "全蛋煮", "鸡蛋"],
+    "category": "蛋奶类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_egg_raw",
+    "name": "鸡蛋（全蛋，生）",
+    "per_100g": {"protein_g": 13.3, "fat_g": 8.8, "carb_g": 2.8},
+    "aliases": ["生鸡蛋", "全蛋生", "鸡蛋"],
+    "category": "蛋奶类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_egg_white",
+    "name": "鸡蛋白",
+    "per_100g": {"protein_g": 11.6, "fat_g": 0.1, "carb_g": 3.1},
+    "aliases": ["蛋清"],
+    "category": "蛋奶类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_egg_yolk",
+    "name": "鸡蛋黄",
+    "per_100g": {"protein_g": 15.2, "fat_g": 28.2, "carb_g": 3.4},
+    "aliases": ["蛋黄"],
+    "category": "蛋奶类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_whole_milk",
+    "name": "牛奶（全脂）",
+    "per_100g": {"protein_g": 3.0, "fat_g": 3.2, "carb_g": 3.4},
+    "aliases": ["全脂牛奶", "牛奶"],
+    "category": "蛋奶类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_skim_milk",
+    "name": "牛奶（脱脂）",
+    "per_100g": {"protein_g": 3.4, "fat_g": 0.3, "carb_g": 5.0},
+    "aliases": ["脱脂牛奶", "牛奶"],
+    "category": "蛋奶类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_whole_yogurt",
+    "name": "酸奶（全脂）",
+    "per_100g": {"protein_g": 2.5, "fat_g": 2.7, "carb_g": 9.3},
+    "aliases": ["全脂酸奶", "酸奶"],
+    "category": "蛋奶类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_spinach",
+    "name": "菠菜",
+    "per_100g": {"protein_g": 2.4, "fat_g": 0.5, "carb_g": 3.4},
+    "aliases": [],
+    "category": "蔬菜类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_rapeseed_greens",
+    "name": "油菜",
+    "per_100g": {"protein_g": 1.1, "fat_g": 0.3, "carb_g": 2.7},
+    "aliases": [],
+    "category": "蔬菜类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_cabbage",
+    "name": "卷心菜",
+    "per_100g": {"protein_g": 1.3, "fat_g": 0.3, "carb_g": 4.5},
+    "aliases": ["包菜"],
+    "category": "蔬菜类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_chive",
+    "name": "韭菜",
+    "per_100g": {"protein_g": 2.1, "fat_g": 0.6, "carb_g": 4.6},
+    "aliases": [],
+    "category": "蔬菜类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_celery",
+    "name": "芹菜",
+    "per_100g": {"protein_g": 2.2, "fat_g": 0.3, "carb_g": 3.7},
+    "aliases": [],
+    "category": "蔬菜类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_cauliflower",
+    "name": "菜花",
+    "per_100g": {"protein_g": 2.4, "fat_g": 0.4, "carb_g": 4.2},
+    "aliases": ["花菜"],
+    "category": "蔬菜类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_tomato",
+    "name": "番茄",
+    "per_100g": {"protein_g": 0.9, "fat_g": 0.2, "carb_g": 4.0},
+    "aliases": ["西红柿"],
+    "category": "蔬菜类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_cucumber",
+    "name": "黄瓜",
+    "per_100g": {"protein_g": 0.8, "fat_g": 0.2, "carb_g": 2.9},
+    "aliases": [],
+    "category": "蔬菜类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_carrot",
+    "name": "胡萝卜（红）",
+    "per_100g": {"protein_g": 1.0, "fat_g": 0.2, "carb_g": 8.8},
+    "aliases": ["红胡萝卜", "胡萝卜"],
+    "category": "蔬菜类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_potato",
+    "name": "土豆（马铃薯）",
+    "per_100g": {"protein_g": 2.0, "fat_g": 0.2, "carb_g": 17.2},
+    "aliases": ["马铃薯", "土豆"],
+    "category": "蔬菜类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_sweet_potato",
+    "name": "红薯",
+    "per_100g": {"protein_g": 1.6, "fat_g": 0.2, "carb_g": 23.1},
+    "aliases": ["地瓜"],
+    "category": "蔬菜类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_apple",
+    "name": "苹果",
+    "per_100g": {"protein_g": 0.3, "fat_g": 0.2, "carb_g": 13.5},
+    "aliases": [],
+    "category": "水果类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_banana",
+    "name": "香蕉",
+    "per_100g": {"protein_g": 1.4, "fat_g": 0.2, "carb_g": 22.0},
+    "aliases": [],
+    "category": "水果类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_orange",
+    "name": "橙子",
+    "per_100g": {"protein_g": 0.9, "fat_g": 0.1, "carb_g": 11.5},
+    "aliases": [],
+    "category": "水果类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_grape",
+    "name": "葡萄",
+    "per_100g": {"protein_g": 0.5, "fat_g": 0.2, "carb_g": 10.3},
+    "aliases": [],
+    "category": "水果类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_kiwi",
+    "name": "猕猴桃",
+    "per_100g": {"protein_g": 1.1, "fat_g": 0.5, "carb_g": 14.5},
+    "aliases": ["奇异果"],
+    "category": "水果类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_pear",
+    "name": "梨",
+    "per_100g": {"protein_g": 0.4, "fat_g": 0.2, "carb_g": 13.3},
+    "aliases": [],
+    "category": "水果类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_watermelon",
+    "name": "西瓜",
+    "per_100g": {"protein_g": 0.6, "fat_g": 0.1, "carb_g": 7.9},
+    "aliases": [],
+    "category": "水果类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_peanut_oil",
+    "name": "花生油",
+    "per_100g": {"protein_g": 0.0, "fat_g": 100.0, "carb_g": 0.0},
+    "aliases": [],
+    "category": "油脂及糖类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_soybean_oil",
+    "name": "大豆油",
+    "per_100g": {"protein_g": 0.0, "fat_g": 100.0, "carb_g": 0.0},
+    "aliases": ["豆油"],
+    "category": "油脂及糖类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_olive_oil",
+    "name": "橄榄油",
+    "per_100g": {"protein_g": 0.0, "fat_g": 100.0, "carb_g": 0.0},
+    "aliases": [],
+    "category": "油脂及糖类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_lard",
+    "name": "猪油（炼）",
+    "per_100g": {"protein_g": 0.0, "fat_g": 99.6, "carb_g": 0.0},
+    "aliases": ["炼猪油", "猪油"],
+    "category": "油脂及糖类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_sugar",
+    "name": "白砂糖",
+    "per_100g": {"protein_g": 0.0, "fat_g": 0.0, "carb_g": 99.9},
+    "aliases": ["砂糖", "糖"],
+    "category": "油脂及糖类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_raw_peanut",
+    "name": "花生仁（生）",
+    "per_100g": {"protein_g": 24.8, "fat_g": 44.3, "carb_g": 21.7},
+    "aliases": ["生花生仁", "花生仁"],
+    "category": "油脂及糖类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_dried_wood_ear",
+    "name": "黑木耳（干）",
+    "per_100g": {"protein_g": 12.1, "fat_g": 1.5, "carb_g": 65.6},
+    "aliases": ["干木耳", "木耳"],
+    "category": "菌藻及坚果类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_dried_shiitake",
+    "name": "干香菇",
+    "per_100g": {"protein_g": 20.0, "fat_g": 1.2, "carb_g": 61.7},
+    "aliases": ["香菇"],
+    "category": "菌藻及坚果类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_dried_nori",
+    "name": "紫菜（干）",
+    "per_100g": {"protein_g": 26.7, "fat_g": 1.1, "carb_g": 44.1},
+    "aliases": ["干紫菜", "紫菜"],
+    "category": "菌藻及坚果类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_walnut",
+    "name": "核桃（干）",
+    "per_100g": {"protein_g": 14.9, "fat_g": 58.8, "carb_g": 19.1},
+    "aliases": ["干核桃", "核桃"],
+    "category": "菌藻及坚果类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_roasted_peanut",
+    "name": "花生（炒）",
+    "per_100g": {"protein_g": 24.1, "fat_g": 44.4, "carb_g": 21.3},
+    "aliases": ["炒花生", "花生"],
+    "category": "菌藻及坚果类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  },
+  {
+    "id": "builtin_roasted_sunflower_seed",
+    "name": "瓜子（炒）",
+    "per_100g": {"protein_g": 22.6, "fat_g": 52.8, "carb_g": 17.3},
+    "aliases": ["炒瓜子", "瓜子"],
+    "category": "菌藻及坚果类",
+    "source": "《中国食物成分表》标准版第6版及国家食物与营养咨询委员会",
+    "is_custom": false,
+    "note": ""
+  }
+]
